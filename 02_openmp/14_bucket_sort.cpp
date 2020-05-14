@@ -28,8 +28,9 @@ int main() {
       key[j++] = i;
     }
   }
-
+#pragma omp parallel
   for (int i=0; i<n; i++) {
+#pragma omp single
     printf("%d ",key[i]);
   }
   printf("\n");
