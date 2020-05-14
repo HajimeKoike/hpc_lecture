@@ -1,5 +1,5 @@
 # hpc_lecture
-
+# Hajime Koike 20M30456
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
