@@ -16,3 +16,4 @@
 | Class 12 | Containers                           |                           |
 | Class 13 | Scientific computing                 | 13_fdm,13_solver          |
 | Class 14 | Deep Learning                        | 14_dl                     |
+| Navier_Stokes | Parallelization of Navier Stokes| NS                        |
