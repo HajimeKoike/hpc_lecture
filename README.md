@@ -1,5 +1,7 @@
 # hpc_lecture
-# Hajime Koike 20M30456
+ - 20201Q Titech lecture "High Performance Computing" lecture materials
+
+# Contents
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
